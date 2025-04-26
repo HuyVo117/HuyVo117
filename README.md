@@ -22,7 +22,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Thêm các icon mạng xã hội nếu bạn có -->
+  <a href="https://www.facebook.com/your-profile" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="facebook" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/your-profile" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram" width="40" height="40"/>
+  </a>
+  <!-- Add more social media icons/links here if needed -->
 </p>
 
 ---
