@@ -47,19 +47,22 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huyvo117&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=huyvo117&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🌐 Connect with me
 <p align="left">
-<a href="https://www.facebook.com/VoNhatHuy117" target="blank">
-<img src="https://skillicons.dev/icons?i=facebook" height="40" />
-</a>
-<a href="https://www.instagram.com/huyvo12938/" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
+  <a href="https://www.facebook.com/VoNhatHuy117" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="40" />
+  </a>
+  <a href="https://www.instagram.com/huyvo12938/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/huy-vo-b72945326/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
 </p>
 
 ---
